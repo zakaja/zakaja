@@ -55,6 +55,15 @@ I value clean code, consistency, and lifelong learning.
 
 ---
 
+## Projects
+
+### 🌐 Portfolio Website
+A responsive personal portfolio built with React and TailwindCSS.  
+**Tech:** React, TailwindCSS, Framer Motion, Three.js, Vite, GitHub Pages  
+[View Project](https://github.com/zakaja/portfolio)
+
+---
+
 ## Current Focus
 - Strengthening full stack fundamentals  
 - Building practical web and mobile projects  
@@ -67,3 +76,10 @@ I value clean code, consistency, and lifelong learning.
 - Grow as a versatile full stack developer  
 - Contribute to meaningful projects and open source  
 - Continuously learn new technologies and frameworks
+
+---
+
+## Contact Me
+📫 Reach me at: [zakaja19@gmail.com](mailto:zakja19@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/zakaja](https://linkedin.com/in/zakaja)  
+🌐 Portfolio: [zakaja.github.io](https://zakaja.github.io)
