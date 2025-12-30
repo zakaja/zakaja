@@ -82,4 +82,4 @@ A responsive personal portfolio built with React and TailwindCSS.
 ## Contact Me
 📫 Reach me at: [zakaja19@gmail.com](mailto:zakja19@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/zakaja](https://linkedin.com/in/zakaja)  
-🌐 Portfolio: [zakaja.github.io](https://zakaja.github.io)
+🌐 Portfolio: [zakaja.github.io](https://zakaja.github.io/portfolio/)
